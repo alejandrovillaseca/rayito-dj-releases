@@ -1,0 +1,33 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+RAYITO DJ - SOFTWARE DE GESTIÓN Y MEJORA DE AUDIO CON IA
+
+IMPORTANTE: LEA DETENIDAMENTE ESTE ACUERDO ANTES DE USAR EL SOFTWARE.
+
+1. CONCESIÓN DE LICENCIA
+Rayito Dev ("El Autor") le otorga a usted ("El Usuario") una licencia personal, no exclusiva, intransferible y gratuita (Freeware) para descargar, instalar y utilizar Rayito DJ ("El Software") con fines personales o profesionales. Este Software no se vende, se licencia.
+
+2. RESTRICCIONES E INGENIERÍA INVERSA
+El Usuario tiene estrictamente prohibido:
+a) Descompilar, realizar ingeniería inversa, desensamblar, extraer o intentar derivar el código fuente del Software.
+b) Modificar, alterar o crear obras derivadas basadas en el Software.
+c) Redistribuir, vender, sublicenciar o empaquetar el Software para su distribución comercial sin el consentimiento previo y por escrito del Autor.
+
+3. PRIVACIDAD Y TELEMETRÍA
+El Software procesa los archivos de audio de forma local en el equipo del Usuario. El Autor no recopila ni tiene acceso a la biblioteca musical del Usuario. El Software puede recopilar datos telemétricos anónimos y reportes de fallos técnicos (crash reports) única y exclusivamente para mejorar la estabilidad de la aplicación.
+
+4. EXENCIÓN DE GARANTÍAS ("TAL CUAL" / AS IS)
+El Software se proporciona "TAL CUAL", sin garantías de ningún tipo, expresas o implícitas, incluyendo, pero sin limitarse a, garantías de comerciabilidad, idoneidad para un propósito particular o no infracción. El Autor no garantiza que el Software funcionará sin interrupciones o libre de errores.
+
+5. LIMITACIÓN DE RESPONSABILIDAD
+En ningún caso el Autor será responsable por daños directos, indirectos, incidentales, especiales o consecuentes (incluyendo, pero sin limitarse a, la pérdida de datos, corrupción de archivos de audio, interrupción del negocio o lucro cesante) que surjan del uso o la incapacidad de usar el Software, incluso si el Autor ha sido advertido de la posibilidad de tales daños. El Usuario asume todo el riesgo derivado del uso del Software.
+
+6. SOFTWARE DE TERCEROS
+El Software utiliza bibliotecas y componentes de código abierto de terceros (incluyendo, pero sin limitarse a, Electron, Wavesurfer.js y FFmpeg bajo licencia LGPL ejecutado externamente). Las licencias correspondientes a estos componentes de terceros se encuentran disponibles en la sección "Licencias" o "Acerca de" dentro de la interfaz del Software.
+
+7. LEY APLICABLE Y JURISDICCIÓN
+Este Acuerdo se regirá e interpretará de acuerdo con las leyes de la República de Chile, sin dar efecto a sus principios de conflictos de leyes. 
+
+Al instalar o usar Rayito DJ, el Usuario acepta estar sujeto a los términos de este Acuerdo.
+
+---
+Rayito DJ © 2026 Rayito Dev. Todos los derechos reservados.
