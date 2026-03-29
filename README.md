@@ -10,6 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/Plataformas-Windows%20%7C%20macOS-blue?style=for-the-badge" alt="Plataformas">
   <img src="https://img.shields.io/badge/Licencia-Freeware%20(EULA)-green?style=for-the-badge" alt="Licencia">
+  <img src="https://img.shields.io/github/downloads/alejandrovillaseca/rayito-dj-releases/total?style=for-the-badge&color=blueviolet&label=DESCARGAS%20TOTALES" alt="Descargas Totales">
 </p>
 
 **Rayito DJ** es una potente aplicación de escritorio diseñada para DJs y productores que utiliza **Inteligencia Artificial de última generación** para restaurar y mejorar la calidad de tu biblioteca musical. 
