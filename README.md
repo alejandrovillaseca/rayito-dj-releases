@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/alejandrovillaseca/rayito-dj-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/alejandrovillaseca/rayito-dj-releases?style=for-the-badge&color=ff6600&label=ÚLTIMA%20VERSIÓN" alt="Última Versión">
+    <img src="https://img.shields.io/github/v/release/alejandrovillaseca/rayito-dj-releases?style=for-the-badge&color=ff6600&label=ULTIMA%20VERSION" alt="Última Versión">
   </a>
   <img src="https://img.shields.io/badge/Plataformas-Windows%20%7C%20macOS-blue?style=for-the-badge" alt="Plataformas">
   <img src="https://img.shields.io/badge/Licencia-Freeware%20(EULA)-green?style=for-the-badge" alt="Licencia">
