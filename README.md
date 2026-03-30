@@ -46,7 +46,7 @@ Al ser Rayito DJ un software independiente y gratuito (sin pagar los $500 USD qu
 
 Entendemos que la seguridad es lo primero. Hemos analizado nuestro instalador con más de 70 motores antivirus profesionales.
 
-👉 **[VER REPORTE DE SEGURIDAD EN TIEMPO REAL](https://www.virustotal.com/gui/file/004ab0a01c42f1a3bcd22122f2d21b2c919bc21a8698584a411f8074a918cdde?nocache=1)**
+👉 **[VER REPORTE DE SEGURIDAD EN TIEMPO REAL](https://www.virustotal.com/gui/file-analysis/Y2JhN2I2ZmY5MTg4MDBkNzZlOGI3Njc2MzY2OWUxZDE6MTc3NDgzODEwNA==)**
 
 *(Estado: 0/72 - Limpio de amenazas)*
 
